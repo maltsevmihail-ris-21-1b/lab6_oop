@@ -143,6 +143,7 @@ namespace Application
                                 }
                             }
                             Console.WriteLine("Массив создан");
+                            PrintJagArray(jagArray);
                             break;
                         }
                     case 2:
@@ -169,6 +170,7 @@ namespace Application
                                 }
                             }
                             Console.WriteLine("Массив создан");
+                            PrintJagArray(jagArray);
                             break;
                         }
                     case 3:
